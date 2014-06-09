@@ -1,2 +1,3 @@
-wdi_1_ruby_lab_arrays
-=====================
+# An Array of Labs
+
+See the files within this repo for individual labs.
