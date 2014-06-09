@@ -15,3 +15,5 @@ Don't forget to use Pry to check the results of your code!
 6. On second thought, I don't like weekdays at all. Write code that deletes the weekdays from the array of arrays, leaving only the weekend days.
 
 7. Going back to your original array of days, write code that sorts the days alphabetically and assigns these to a new variable.
+
+8. Finally, print out (on the terminal) the list of sorted days, with each day on its own line.
