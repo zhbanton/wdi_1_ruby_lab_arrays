@@ -4,7 +4,7 @@ days[days.index('Thursday')].upcase!
 days2 = [days[1..5], [days[0], days[-1]]]
 days2[0][index('Wednesday')] = "Woden's Day"
 days2.shift
-days.sort!
-days.each do |day|
+sorted_days = days.sort
+sorted_days.each do |day|
   puts day
 end
